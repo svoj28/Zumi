@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ZumiVideoEncoderModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.zumivideoencoder.ZumiVideoEncoderModule"]
+  }
+}

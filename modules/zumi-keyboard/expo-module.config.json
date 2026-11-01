@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ZumiKeyboardModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.zumikeyboard.ZumiKeyboardModule"]
+  }
+}
